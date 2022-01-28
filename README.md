@@ -21,11 +21,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=encinasj&theme=react&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encinasj&layout=compact)
 
-<h3 align="left">Support:</h3>  
+<h3 align="left">Support me with 1 cup of coffee:</h3> 
 <p>
 <a href="https://cafecito.app/encinas"> <img align="left" src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" height="50" width="210" alt="https://cafecito.app/encinas"/> 
 </a>
   <br>
-  <h2 align="center"> ¡Ayudame con un café!</h2> 
 </p>
 <br>
