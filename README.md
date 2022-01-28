@@ -23,8 +23,8 @@
 
 <h3 align="left">Support:</h3>  
 <p>
-<a href="https://cafecito.app/encinas"> <img align="left" src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" height="50" width="210" alt="https://cafecito.app/encinas"/>
-<h2 align="center"> ¡Ayudame con un café!</h2>  
+<a href="https://cafecito.app/encinas"> <img align="left" src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" height="50" width="210" alt="https://cafecito.app/encinas"/> 
 </a>
+  <h2 align="center"> ¡Ayudame con un café!</h2> 
 </p>
 <br>
