@@ -25,6 +25,7 @@
 <p>
 <a href="https://cafecito.app/encinas"> <img align="left" src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" height="50" width="210" alt="https://cafecito.app/encinas"/> 
 </a>
+  <br>
   <h2 align="center"> ¡Ayudame con un café!</h2> 
 </p>
 <br>
