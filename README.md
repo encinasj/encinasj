@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/reivencross/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/reivencross/" height="30" width="40" /></a>  
 </p>  
 <br>
-- 🔭 I’m currently working on **ISEI**  
+- 🔭 Actually I’m currently **open to work on team**  
   
 - 📫 How to reach me **encinasj.angel@gmail.com**  
   
